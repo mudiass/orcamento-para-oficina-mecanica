@@ -4,7 +4,7 @@ Este é um sistema web interativo para geração de orçamentos de serviços e p
 
 ## 📸 Captura de Tela
 
-![Interface do sistema](caminho/para/screenshot.jpg) <!-- Substitua pelo caminho correto da imagem -->
+![Interface do sistema](C:\Users\Ryzen 3\Downloads/sistema.jpg) 
 
 ---
 
