@@ -1,6 +1,6 @@
 # 🛠️ Sistema de Orçamento - Oficina Automotiva
 
-Este é um sistema web interativo para geração de orçamentos de serviços e produtos em oficinas mecânicas. O objetivo é facilitar o atendimento ao cliente com uma interface moderna e prática.
+Este é um sistema web interativo feito para atender uma necessidade do meu amigo Rodolfo que possui uma oficina automotiva, este projeto geraorçamentos de serviços e produtos em oficinas mecânicas. O objetivo é facilitar o atendimento ao cliente com uma interface moderna e prática.
 
 ## 📸 Captura de Tela
 
