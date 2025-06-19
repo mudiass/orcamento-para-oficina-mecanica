@@ -1,4 +1,4 @@
-# 🛠️ Sistema de Orçamento - Oficina Automotiva
+# 🛠️ Projeto de Orçamento - Oficina Automotiva
 
 Este é um sistema web interativo feito para atender uma necessidade do meu amigo Rodolfo que possui uma oficina automotiva, este projeto gera orçamentos de serviços e produtos em oficinas mecânicas. O objetivo é facilitar o atendimento ao cliente com uma interface moderna e prática.
 
