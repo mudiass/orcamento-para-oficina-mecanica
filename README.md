@@ -31,6 +31,6 @@ Este é um sistema web interativo para geração de orçamentos de serviços e p
 ## 🚀 Como Usar
 
 1. Clone o repositório:
-2. [  git clone https://github.com/seu-usuario/orcamento-oficina.git](https://github.com/mudiass/orcamento-para-oficina-mecanica)
+  
    ```bash 
- 
+  (https://github.com/mudiass/orcamento-para-oficina-mecanica)
