@@ -32,4 +32,4 @@ Este é um sistema web interativo para geração de orçamentos de serviços e p
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/orcamento-oficina.git
+ [  git clone https://github.com/seu-usuario/orcamento-oficina.git](https://github.com/mudiass/orcamento-para-oficina-mecanica)
